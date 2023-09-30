@@ -1,7 +1,9 @@
 .home-page {
   &__title {
     color: red;
+    font-family:'Courier New', Courier, monospace
   }
+
 
   &__products {
     display: flex;
